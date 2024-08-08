@@ -1,0 +1,35 @@
+body{
+    margin: 10px;
+    padding-left: 25%;
+    padding-right: 25%;
+    
+}
+ul{
+    list-style-type: none;
+    margin: auto;
+}
+.list{
+    box-shadow: 3px 5px 3px 6px ;
+}
+.head{
+    display: inline;
+}
+img{
+    border-style: 5px;
+    border-width: 3px;
+}
+.textwrap{
+    border-style: 5px;
+    float: right;
+    margin: 10px;
+}
+.quote{
+    box-shadow: 5px 7px 5px 8px;
+}
+
+.foot{
+    
+
+ 
+    background-color: rgb(122, 233, 231);
+}
